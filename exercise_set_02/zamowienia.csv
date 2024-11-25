@@ -1,0 +1,490 @@
+﻿order_id;sum;date;payment_form;shipping;invoice_city
+347;109.99;2023-01-01 14:32;Allegro;Allegro: Allegro Paczkomaty InPost;Krosno koło Mosiny
+348;59.99;2023-01-02 12:37;Allegro;Allegro: Allegro Paczkomaty InPost;Poznań
+349;59.99;2023-01-02 20:59;Allegro;Allegro: Allegro Paczkomaty InPost;Poznań
+350;89.99;2023-01-02 21:51;Allegro;Allegro: Allegro Paczkomaty InPost;Poznań
+351;89.99;2023-01-03 14:34;Allegro;Allegro: Allegro Paczkomaty InPost;Poznań
+354;749.99;2023-01-05 19:05;Allegro;Allegro: Allegro Paczkomaty InPost;Bystrzyca Kłodzka
+355;289.99;2023-01-06 16:33;Allegro;Allegro: Allegro Paczkomaty InPost;Warszawa
+356;279.98;2023-01-07 01:30;Allegro;Allegro: Allegro Paczkomaty InPost;Lublin
+357;59.99;2023-01-08 18:12;Allegro;Allegro: Allegro Paczkomaty InPost;Wrocław
+358;119.99;2023-01-09 16:57;Allegro;Allegro: Allegro Paczkomaty InPost;Turośń Kościelna
+359;79.99;2023-01-09 22:06;Allegro;Allegro: Allegro Paczkomaty InPost;Wrocław
+360;220.89;2023-01-10 16:53;Allegro;Allegro: Allegro One Kurier - dostawa jutro;Warszawa
+361;179.99;2023-01-11 11:02;Allegro;Allegro: Allegro Paczkomaty InPost;Poznań
+362;189.98;2023-01-11 12:40;Allegro;Allegro: Allegro Paczkomaty InPost;Nowizna
+363;159.99;2023-01-12 09:01;Allegro;Allegro: Allegro Paczkomaty InPost;Kraków
+364;89.98;2023-01-14 13:14;Allegro;Allegro: Allegro Paczkomaty InPost;Zręcin
+373;1399.92;2023-01-15 21:17;Allegro;Allegro: Allegro Paczkomaty InPost;Poręba
+374;559.99;2023-01-16 10:39;PayPo;Punkt odbioru DPD Pickup;Poznań
+375;169.98;2023-01-16 16:46;Allegro;Allegro: Allegro Paczkomaty InPost;WARSZAWA
+376;79.99;2023-01-17 20:52;Allegro;Allegro: Allegro Kurier DPD;Kuźnia Raciborska
+379;239.98;2023-01-19 16:19;Allegro;Allegro: Allegro Paczkomaty InPost;Żory
+380;269.98;2023-01-19 18:16;Allegro;Allegro: Allegro Paczkomaty InPost;Chorzów
+381;309.98;2023-01-19 19:35;Przelew natychmiastowy;Punkt odbioru DPD Pickup;Bielsko- Biała
+382;139.98;2023-01-19 20:42;Allegro;Allegro: Allegro Paczkomaty InPost;Warszawa
+383;219.99;2023-01-20 20:17;Przelew natychmiastowy;Punkt odbioru DPD Pickup;Wrocław
+384;69.99;2023-01-21 22:39;Allegro;Allegro: Allegro Paczkomaty InPost;Łódź
+385;599.99;2023-01-22 23:20;Allegro;Allegro: Allegro Paczkomaty InPost;Zabrze
+386;49.98;2023-01-23 03:44;Allegro;Allegro: Allegro Paczkomaty InPost;Gliwice
+388;79.99;2023-01-23 22:42;Allegro;Allegro: Allegro Paczkomaty InPost;Łódź
+392;189.97;2023-01-24 11:22;Allegro;Allegro: Allegro Paczkomaty InPost;Dębica
+393;59.99;2023-01-27 14:37;Allegro;Allegro: Allegro Paczkomaty InPost;Gdańsk
+394;329.98;2023-01-27 20:45;Allegro;Allegro: Allegro Paczkomaty InPost;Częstochowa
+397;199.99;2023-01-29 17:10;Allegro;Allegro: Allegro Paczkomaty InPost;Węgierska Górka
+398;129.98;2023-01-29 17:06;Allegro;Allegro: Allegro Paczkomaty InPost;Węgierska Górka
+399;139.99;2023-01-30 15:05;Allegro;Allegro: Allegro One Kurier - dostawa jutro;kosów lacki
+404;429.97;2023-01-31 21:34;Allegro;Allegro: Allegro Paczkomaty InPost;Ostrów Mazowiecka
+405;129.99;2023-02-03 08:16;Allegro;Allegro: Allegro Paczkomaty InPost;Poznań
+406;179.98;2023-02-03 10:38;Allegro;Allegro: Allegro Paczkomaty InPost;Zielonki
+407;89.98;2023-02-04 04:36;Allegro;Allegro: Allegro Paczkomaty InPost;Bogatynia
+408;180.99;2023-02-04 13:53;BLIK;Punkt odbioru DPD Pickup;Zręcin
+409;79.98;2023-02-04 14:51;Allegro;Allegro: Allegro Paczkomaty InPost;Zielonki
+414;109.98;2023-02-04 19:18;Allegro;Allegro: Allegro Paczkomaty InPost;Suwałki
+415;509.95;2023-02-04 19:16;Allegro;Allegro: Allegro Paczkomaty InPost;Suwałki
+416;259.98;2023-02-04 19:46;Allegro;Allegro: Allegro Paczkomaty InPost;Suwałki
+417;89.98;2023-02-05 09:59;Allegro;Allegro: Allegro Paczkomaty InPost;Suwałki
+418;269.99;2023-02-06 08:17;Allegro;Allegro: Allegro Kurier DPD;Warszawa
+420;169.98;2023-02-06 20:20;Allegro;Allegro: Allegro Paczkomaty InPost;Lubasz
+421;169.98;2023-02-06 21:50;Allegro;Allegro: Allegro Paczkomaty InPost;Ostrowiec Świętokrzyski
+422;119.99;2023-02-07 19:50;Allegro;Allegro: Allegro Kurier DPD;NOWOGARD
+423;1599.99;2023-02-10 19:15;Allegro;Allegro: Allegro Paczkomaty InPost;Siemianowice Śląskie
+424;119.99;2023-02-11 17:04;Allegro;Allegro: Allegro One Box;Gdynia
+428;239.97;2023-02-11 22:19;Allegro;Allegro: Allegro Paczkomaty InPost;Wrocław
+429;150.94;2023-02-13 12:03;Allegro;Allegro: Allegro miniKurier24 InPost;Gdańsk
+433;219.97;2023-02-13 19:44;Allegro;Allegro: Allegro Paczkomaty InPost;Szczecinek
+434;239.99;2023-02-14 07:49;Allegro;Allegro: Allegro One Box, One Kurier;Łódź
+435;229.99;2023-02-14 19:59;Allegro;Allegro: Allegro Paczkomaty InPost;zielonka
+436;159.99;2023-02-16 01:47;BLIK;Punkt odbioru DPD Pickup;Zgierz
+437;169.98;2023-02-16 10:18;BLIK;Punkt odbioru DPD Pickup;Czeladź
+438;309.96;2023-02-17 18:00;Przelew natychmiastowy;Punkt odbioru DPD Pickup;Warszawa
+439;219.99;2023-02-17 17:35;Allegro;Allegro: Allegro Paczkomaty InPost;Poznań
+440;329.99;2023-02-18 14:31;Allegro;Allegro: Allegro Paczkomaty InPost;Rybnik
+443;159.99;2023-02-18 22:44;Allegro;Allegro: Allegro Paczkomaty InPost;Kędzierzyn Koźle
+444;270.93;2023-02-18 22:41;Allegro;Allegro: Allegro miniKurier24 InPost;Warszawa
+445;79.99;2023-02-19 13:33;Allegro;Allegro: Allegro Paczkomaty InPost;Warszawa
+449;1099.97;2023-02-20 08:39;Allegro;Allegro: Allegro Paczkomaty InPost;Przeworsk
+450;199.99;2023-02-21 20:15;Allegro;Allegro: Allegro Paczkomaty InPost;Przeworsk
+451;109.99;2023-02-21 23:17;Allegro;Allegro: Allegro Kurier DPD;Liszki
+452;109.99;2023-02-22 14:44;Allegro;Allegro: Allegro Paczkomaty InPost;Wrocław
+457;459.95;2023-02-22 19:05;Allegro;Allegro: Allegro Paczkomaty InPost;Warszawa
+458;899.99;2023-02-24 18:59;Allegro;Allegro: Allegro Paczkomaty InPost;Bielsko-Biała
+459;142.98;2023-02-24 19:16;BLIK;Punkt odbioru DPD Pickup;Poznań
+460;219.99;2023-02-25 17:29;Allegro;Allegro: Allegro Kurier DPD;Warszawa
+461;329.99;2023-02-27 18:13;Allegro;Allegro: Allegro Paczkomaty InPost;Bielany Wrocławskie
+462;118.98;2023-02-27 22:05;Allegro;Allegro: Allegro One Box, One Kurier;Warszawa
+463;139.98;2023-02-28 11:54;Allegro;Allegro: Allegro Paczkomaty InPost;Sochaczew
+464;219.99;2023-02-28 18:01;Allegro;Allegro: Allegro Kurier DPD;lubań
+465;109.99;2023-02-28 20:47;Allegro;Allegro: Allegro Paczkomaty InPost;Gdańsk
+466;129.99;2023-02-28 20:51;Allegro;Allegro: Allegro Paczkomaty InPost;Gdańsk
+467;319.99;2023-03-01 15:31;Allegro;Allegro: Allegro Kurier DPD;Rzeszów
+468;238.98;2023-03-01 19:43;Allegro;Allegro: Allegro One Box, One Kurier;Lublin
+469;228.49;2023-03-02 11:45;BLIK;Punkt odbioru DPD Pickup;Sochaczew
+470;109.98;2023-03-06 15:05;Allegro;Allegro: Allegro Paczkomaty InPost;Ostrołęka
+473;159.99;2023-03-10 20:34;Allegro;Allegro: Allegro Paczkomaty InPost;Ruda Śląska
+474;129.99;2023-03-10 20:55;BLIK;Punkt odbioru DPD Pickup;Wysieradz
+475;149.99;2023-03-11 09:19;Allegro;Allegro: Allegro Paczkomaty InPost;Bolków
+476;69.99;2023-03-11 23:13;Przelew natychmiastowy;Punkt odbioru DPD Pickup;Niegowonice
+480;244.97;2023-03-12 10:53;Allegro;Allegro: Allegro Paczkomaty InPost;Poznań
+481;64.99;2023-03-12 13:31;Allegro;Allegro: Allegro Paczkomaty InPost;Dobrzykowice
+485;1794.97;2023-03-12 15:50;Allegro;Allegro: Allegro Paczkomaty InPost;Wrocław
+486;129.99;2023-03-16 08:43;Przelew natychmiastowy;Punkt odbioru DPD Pickup;WROCŁAW
+492;509.95;2023-03-16 09:50;Allegro;Allegro: Allegro One Box, One Kurier;Wrocław
+493;89.99;2023-03-18 22:17;Allegro;Allegro: Allegro Kurier DPD;Zielonka
+501;3249.93;2023-03-19 18:43;Allegro;Allegro: Allegro Kurier DPD;Przeworsk
+502;159.99;2023-03-21 19:08;Allegro;Allegro: Allegro Paczkomaty InPost;Krakow
+503;109.99;2023-03-22 00:11;Allegro;Allegro: Allegro Paczkomaty InPost;Chrzanów
+504;237.98;2023-03-26 21:29;Przelew natychmiastowy;Punkt odbioru DPD Pickup;Wrocław
+505;109.99;2023-04-01 13:05;Przelew natychmiastowy;Kurier InPost;WROCŁAW
+508;449.98;2023-04-02 13:37;Allegro;Allegro: Allegro Paczkomaty InPost;Gdańsk
+509;359.99;2023-04-02 17:02;Allegro;Allegro: Allegro Paczkomaty InPost;Kraków
+510;159.99;2023-04-03 20:22;Allegro;Allegro: Allegro Paczkomaty InPost;GORLICE
+511;79.99;2023-04-03 20:40;Allegro;Allegro: Allegro Paczkomaty InPost;Kraków
+512;169.99;2023-04-06 14:34;Allegro;Allegro: Allegro Paczkomaty InPost;Poznań
+513;869.97;2023-04-07 10:11;Przelew natychmiastowy;Darmowa wysyłka kurierem (tylko na terenie Krakowa, dla zakupów powyżej 500 zł);Poznań
+515;119.99;2023-04-08 18:26;Allegro;Allegro: Allegro Paczkomaty InPost;Smolno
+516;247.49;2023-04-09 11:59;BLIK;Punkt odbioru DPD Pickup;Zręcin
+517;59.99;2023-04-09 19:02;BLIK;Punkt odbioru DPD Pickup;Poznań
+518;139.98;2023-04-09 18:43;Allegro;Allegro: Allegro Paczkomaty InPost;Katowice
+519;129.99;2023-04-10 21:29;Allegro;Allegro: Allegro Paczkomaty InPost;Modlnica
+520;129.99;2023-04-11 12:05;Przelew natychmiastowy;Punkt odbioru DPD Pickup;Elbląg
+523;269.97;2023-04-11 12:18;Allegro;Allegro: Allegro Paczkomaty InPost;Lipsko
+524;199.99;2023-04-11 13:43;Allegro;Allegro: Allegro One Box, One Kurier;Rogów
+525;99.99;2023-04-13 11:45;Allegro;Allegro: Allegro Paczkomaty InPost;Bochnia
+526;269.99;2023-04-13 20:00;Allegro;Allegro: Allegro Paczkomaty InPost;Antoniów
+527;130.94;2023-04-15 12:03;Allegro;Allegro: Allegro miniKurier24 InPost;Słupsk
+528;359.99;2023-04-16 10:25;BLIK;Paczkomat InPost;Kraków
+529;209.98;2023-04-17 01:25;Allegro;Allegro: Allegro Paczkomaty InPost;Świebodzice
+530;109.99;2023-04-17 12:21;Allegro;Allegro: Allegro Paczkomaty InPost;Nowy Sącz
+531;199.99;2023-04-17 20:17;Allegro;Allegro: Allegro Paczkomaty InPost;Kielce
+532;159.98;2023-04-20 18:49;Allegro;Allegro: Allegro Paczkomaty InPost;Szamotuły
+533;279.99;2023-04-21 11:18;Przelew natychmiastowy;Paczkomat InPost;Warszawa
+534;79.99;2023-04-23 21:08;Allegro;Allegro: Allegro Paczkomaty InPost;Toszek
+535;279.97;2023-04-24 13:37;BLIK;Paczkomat InPost;Kraków
+536;69.98;2023-04-26 06:45;Allegro;Allegro: Allegro Paczkomaty InPost;Jędrzejów
+537;315.98;2023-04-26 13:10;Przelew natychmiastowy;Paczkomat InPost;Warszawa
+538;99.99;2023-04-26 21:26;Allegro;Allegro: Allegro Paczkomaty InPost;Pilica
+539;99.99;2023-04-26 21:29;Allegro;Allegro: Allegro Paczkomaty InPost;Pilica
+540;299.99;2023-04-28 15:04;Allegro;Allegro: Allegro Paczkomaty InPost;Bielsko-Biała
+541;109.99;2023-04-30 16:14;Allegro;Allegro: Allegro Paczkomaty InPost;Osiek nad Notecią
+542;1990.97;2023-05-03 22:48;BLIK;Kurier DPD;Gdańsk
+547;309.96;2023-05-04 15:03;Allegro;Allegro: Allegro Kurier DPD;Kalety
+548;117.99;2023-05-05 11:14;Przelew natychmiastowy;Paczkomat InPost;Warszawa
+549;209.99;2023-05-06 17:15;Allegro;Allegro: Allegro Paczkomaty InPost;Raszyn
+550;239.99;2023-05-06 19:44;Allegro;Allegro: Allegro Paczkomaty InPost;Gdańsk
+551;70.94;2023-05-07 16:45;Allegro;Allegro: Allegro miniKurier24 InPost;Łódź
+552;439.98;2023-05-07 23:10;Allegro;Allegro: Allegro Paczkomaty InPost;Mysłowice
+553;324.99;2023-05-08 12:46;Przelew natychmiastowy;Paczkomat InPost;Warszawa
+556;469.98;2023-05-10 12:54;Allegro;Allegro: Allegro Paczkomaty InPost;Skwierzyna
+557;2299.99;2023-05-10 20:28;Allegro;Allegro: Allegro Paczkomaty InPost;Wrocław
+558;599.99;2023-05-11 11:31;Allegro;Allegro: Allegro Paczkomaty InPost;Kraków
+559;249.99;2023-05-12 20:59;Allegro;Allegro: Allegro Paczkomaty InPost;Śmieszkowo
+560;89.99;2023-05-13 15:39;Allegro;Allegro: Allegro Odbiór w Punkcie DPD Pickup;Wrocław
+561;299.99;2023-05-14 18:10;Allegro;Allegro: Allegro Paczkomaty InPost;Opole
+562;160.94;2023-05-17 21:57;Allegro;Allegro: Allegro miniKurier24 InPost;Grabówka
+563;169.98;2023-05-19 18:08;Allegro;Allegro: Allegro Paczkomaty InPost;Szamotuły
+566;589.97;2023-05-20 08:13;Allegro;Allegro: Allegro Paczkomaty InPost;Kraków
+567;76.48;2023-05-21 19:12;BLIK;Paczkomat InPost;Warszawa
+568;209.99;2023-05-22 19:51;Allegro;Allegro: Allegro Paczkomaty InPost;Kielce
+585;159.99;2023-05-25 13:46;Allegro;Allegro: Allegro Paczkomaty InPost;Łódź
+586;109.99;2023-05-25 21:51;Allegro;Allegro: Allegro Paczkomaty InPost;Pilica
+587;229.99;2023-05-26 13:46;Allegro;Allegro: Allegro Paczkomaty InPost;Częstochowa
+588;579.93;2023-05-28 20:56;Przelewy24.pl;Paczkomat InPost;Olsztyn
+589;329.99;2023-05-30 10:59;Allegro;Allegro: Allegro Paczkomaty InPost;Bielawa
+590;89.98;2023-05-30 20:19;Allegro;Allegro: Allegro Paczkomaty InPost;Rydzyna
+591;119.99;2023-05-30 20:44;Allegro;Allegro: Allegro Paczkomaty InPost;Ślemień
+592;513.98;2023-05-30 20:55;Allegro;Allegro: Allegro Kurier UPS;Sosnowiec
+593;239.99;2023-06-01 09:44;Allegro;Allegro: Allegro Paczkomaty InPost;Warszawa
+594;159.99;2023-06-01 13:21;Przelew natychmiastowy;Paczkomat InPost;Chorzów
+595;189.99;2023-06-01 18:54;Przelew natychmiastowy;Paczkomat InPost;Warszawa
+596;494.45;2023-06-01 20:49;Przelew tradycyjny;Paczkomat InPost;Poznań
+598;189.99;2023-06-02 21:59;BLIK;Paczkomat InPost;Mogielnica
+599;179.99;2023-06-02 22:31;Allegro;Allegro: Allegro Kurier DPD;Turośń Kościelna
+600;849.99;2023-06-04 09:43;Allegro;Allegro: Allegro Paczkomaty InPost;Warszawa
+601;399.99;2023-06-04 23:00;Allegro;Allegro: Allegro Paczkomaty InPost;Strzyżewice
+602;119.98;2023-06-05 10:11;Allegro;Allegro: Allegro Paczkomaty InPost;WARSZAWA
+603;285.47;2023-06-05 16:04;Przelewy24.pl;Paczkomat InPost;Olsztyn
+604;109.99;2023-06-05 18:45;Allegro;Allegro: Allegro Paczkomaty InPost;Poznań
+607;219.98;2023-06-07 08:30;Allegro;Allegro: Allegro Paczkomaty InPost;Zbrosławice
+608;59.99;2023-06-07 17:31;Allegro;Allegro: Allegro Paczkomaty InPost;Bielsko-Biała
+609;79.98;2023-06-08 09:36;Allegro;Allegro: Allegro Paczkomaty InPost;Gniezno
+610;209.99;2023-06-09 11:01;Allegro;Allegro: Allegro Paczkomaty InPost;Ustroń
+611;249.97;2023-06-10 11:36;BLIK;Paczkomat InPost;Łódź
+617;859.95;2023-06-10 15:35;Allegro;Allegro: Allegro Paczkomaty InPost;Strzyżewice
+618;99.99;2023-06-10 17:41;Allegro;Allegro: Allegro Paczkomaty InPost;Warszawa
+619;279.99;2023-06-11 09:22;Allegro;Allegro: Allegro Paczkomaty InPost;Wrocław
+620;179.99;2023-06-11 10:55;Allegro;Allegro: Allegro Paczkomaty InPost;Toruń
+621;99.98;2023-06-11 23:12;Allegro;Allegro: Allegro Paczkomaty InPost;Piechowice
+622;89.99;2023-06-12 09:25;Allegro;Allegro: Allegro Paczkomaty InPost;Warszawa-Wesoła
+623;169.98;2023-06-14 12:30;Allegro;Allegro: Allegro Paczkomaty InPost;WARSZAWA
+624;2484.85;2023-06-14 21:32;BLIK;Kurier DHL;Wroclaw
+625;249.99;2023-06-15 17:53;Allegro;Allegro: Allegro Paczkomaty InPost;Łódź
+626;579.99;2023-06-16 21:07;Allegro;Allegro: Allegro Paczkomaty InPost;Wieliczka
+627;1449.88;2023-06-17 11:28;Przelew tradycyjny;Punkt odbioru DPD Pickup;Olsztyn
+628;2520.94;2023-06-18 09:16;BLIK;Paczkomat InPost;Wrocław
+629;109.99;2023-06-18 11:43;Allegro;Allegro: Allegro Odbiór w Punkcie DPD Pickup;Iława
+630;89.99;2023-06-19 08:58;Allegro;Allegro: Allegro Paczkomaty InPost;Alwernia
+631;1110.94;2023-06-20 20:14;Allegro;Allegro: Allegro miniKurier24 InPost;Ostrzeszów
+636;483.95;2023-06-23 12:01;Allegro;Allegro: Allegro Kurier DPD;Legnica
+637;249.98;2023-06-24 00:32;Przelew natychmiastowy;Paczkomat InPost;Warszawa
+640;339.98;2023-06-25 21:22;Allegro;Allegro: Allegro Kurier DPD;Popielów
+641;1218.97;2023-06-26 20:19;BLIK;Paczkomat InPost;Wrocław
+642;109.99;2023-06-27 11:51;Allegro;Allegro: Allegro Kurier DPD;POZNAŃ
+643;1259.99;2023-06-27 23:04;Przelew natychmiastowy;Paczkomat InPost;Zgierz
+644;149.99;2023-06-27 23:11;Przelewy24.pl;InPost Paczkomaty 24/7;Zgierz
+645;69.99;2023-06-28 08:32;Przelew natychmiastowy;Paczkomat InPost;Łódź
+646;99.99;2023-06-30 07:11;Allegro;Allegro: Allegro Paczkomaty InPost;Mietków
+647;549.99;2023-07-02 23:45;Allegro;Allegro: Allegro One Box, One Kurier;Lublin
+648;130.94;2023-07-03 21:22;Allegro;Allegro: Allegro miniKurier24 InPost;Połczyno Bis
+649;100.94;2023-07-03 21:24;Allegro;Allegro: Allegro miniKurier24 InPost;Połczyno Bis
+650;290.94;2023-07-03 21:27;Allegro;Allegro: Allegro miniKurier24 InPost;Połczyno Bis
+651;109.99;2023-07-04 06:57;Allegro;Allegro: Allegro Paczkomaty InPost;Zielona Góra
+655;849.97;2023-07-04 10:47;Allegro;Allegro: Allegro Paczkomaty InPost;Stara Wieś
+656;159.99;2023-07-06 15:39;Allegro;Allegro: Allegro Paczkomaty InPost;Bochnia
+657;399.99;2023-07-08 18:10;Allegro;Allegro: Allegro Paczkomaty InPost;Lublin
+658;159.99;2023-07-09 08:53;Allegro;Allegro: Allegro Paczkomaty InPost;Zgorzelec
+659;279.99;2023-07-11 12:51;Allegro;Allegro: Allegro Paczkomaty InPost;Skwierzyna
+660;179.97;2023-07-12 10:35;Przelew natychmiastowy;Paczkomat InPost;Rybnik
+661;189.98;2023-07-12 18:36;Allegro;Allegro: Allegro Paczkomaty InPost;Szydłowiec
+662;319.99;2023-07-12 21:36;Allegro;Allegro: Allegro Kurier DPD;Wałbrzych
+663;1399.99;2023-07-13 14:25;Allegro;Allegro: Allegro Paczkomaty InPost;warszawa
+664;109.99;2023-07-14 18:51;Allegro;Allegro: Allegro Kurier DPD;Łbiska
+665;179.99;2023-07-14 22:31;Allegro;Allegro: Allegro Paczkomaty InPost;Gdynia
+667;109.99;2023-07-17 21:41;Allegro;Allegro: Allegro Paczkomaty InPost;Piekary Śląskie
+668;1109.99;2023-07-19 09:13;Przelew natychmiastowy;Paczkomat InPost;Niechorze
+669;209.99;2023-07-19 20:27;Allegro;Allegro: Allegro Paczkomaty InPost;Ustronie
+670;109.98;2023-07-20 19:06;Allegro;Allegro: Allegro Paczkomaty InPost;Piaseczno
+673;899.98;2023-07-20 22:49;Allegro;Allegro: Allegro Paczkomaty InPost;Jedlnia Letnisko
+674;309.99;2023-07-21 19:13;BLIK;Paczkomat InPost;Poręba Wielka
+675;99.99;2023-07-22 15:24;Allegro;Allegro: Allegro Paczkomaty InPost;Poznań
+678;2449.98;2023-07-22 15:27;Allegro;Allegro: Allegro Paczkomaty InPost;Jedlnia Letnisko
+681;179.97;2023-07-22 19:57;Allegro;Allegro: Allegro Paczkomaty InPost;Mucharz
+682;399.96;2023-07-23 08:25;Przelew natychmiastowy;Paczkomat InPost;Bielsko-Biała
+683;1409.99;2023-07-23 08:40;Przelew natychmiastowy;Paczkomat InPost;Wielka Wieś
+684;159.99;2023-07-24 16:35;Allegro;Allegro: Allegro Paczkomaty InPost;Sosnowiec
+687;59.98;2023-07-24 20:29;Allegro;Allegro: Allegro Paczkomaty InPost;Wólka Kosowska
+688;89.99;2023-07-24 21:42;Allegro;Allegro: Allegro Paczkomaty InPost;Przemyśl
+689;279.99;2023-07-25 21:38;Allegro;Allegro: Allegro Paczkomaty InPost;Łask
+690;309.99;2023-07-27 22:20;BLIK;Paczkomat InPost;Warszawa
+691;379.98;2023-07-27 22:21;Allegro;Allegro: Allegro Paczkomaty InPost;Sucha Beskidzka
+692;169.98;2023-07-28 10:54;Allegro;Allegro: Allegro Paczkomaty InPost;Golasowice
+693;89.99;2023-07-30 02:33;Allegro;Allegro: Allegro Paczkomaty InPost;Kraków
+694;49.98;2023-07-31 10:58;Allegro;Allegro: Allegro Paczkomaty InPost;Kraków
+695;333.97;2023-07-31 12:53;BLIK;Paczkomat InPost;Golasowice
+696;159.99;2023-07-31 14:03;Allegro;Allegro: Allegro Paczkomaty InPost;Bochnia
+697;159.99;2023-07-31 17:56;BLIK;Paczkomat InPost;Myślenice
+698;79.99;2023-07-31 23:11;Allegro;Allegro: Allegro Paczkomaty InPost;Piaseczno
+699;459.99;2023-08-01 10:36;Przelew natychmiastowy;Paczkomat InPost;Chorzów
+700;159.99;2023-08-03 01:42;BLIK;Paczkomat InPost;Golasowice
+708;37.92;2023-08-03 23:53;Allegro;Allegro: Allegro Paczkomaty InPost;Gdynia
+709;219.99;2023-08-06 13:01;Allegro;Allegro: Allegro Paczkomaty InPost;Wrocław
+712;339.97;2023-08-06 18:48;Allegro;Allegro: Allegro Paczkomaty InPost;Mucharz
+713;69.99;2023-08-07 21:28;Allegro;Allegro: Allegro Paczkomaty InPost;Poznań
+714;199.99;2023-08-08 10:17;BLIK;Paczkomat InPost;Mogielnica
+715;1299.99;2023-08-08 23:37;Allegro;Allegro: Allegro Paczkomaty InPost;Zabrze
+716;169.99;2023-08-10 04:32;Allegro;Allegro: Allegro Paczkomaty InPost;Gdańsk
+719;209.98;2023-08-10 11:30;Allegro;Allegro: Allegro Paczkomaty InPost;Płock
+720;549.99;2023-08-10 15:37;Allegro;Allegro: Allegro Paczkomaty InPost;Szczecin
+721;229.99;2023-08-12 06:22;Allegro;Allegro: Allegro Paczkomaty InPost;Płock
+722;99.98;2023-08-13 12:31;Allegro;Allegro: Allegro Paczkomaty InPost;Warszawa
+723;169.99;2023-08-16 07:40;Allegro;Allegro: Allegro Paczkomaty InPost;Albigowa
+724;59.99;2023-08-16 13:35;Allegro;Allegro: Allegro Paczkomaty InPost;Łagieweniki Małe
+725;59.99;2023-08-16 19:42;Allegro;Allegro: Allegro Paczkomaty InPost;Zagórów
+726;149.99;2023-08-17 08:19;Allegro;Allegro: Allegro Paczkomaty InPost;Warszawa
+727;89.99;2023-08-17 11:18;Allegro;Allegro: Allegro Paczkomaty InPost;Płock
+729;549.99;2023-08-18 09:30;Allegro;Allegro: Allegro One Kurier - dostawa jutro;Warszawa
+732;1499.98;2023-08-18 14:23;Allegro;Allegro: Allegro Kurier DHL;Kielce
+733;119.99;2023-08-18 22:09;Allegro;Allegro: Allegro Paczkomaty InPost;Rogoźno
+734;59.99;2023-08-19 16:36;Allegro;Allegro: Allegro Paczkomaty InPost;Wrocław
+735;359.98;2023-08-19 20:43;Allegro;Allegro: Allegro Paczkomaty InPost;Warszawa
+736;159.99;2023-08-22 14:58;Allegro;Allegro: Allegro Paczkomaty InPost;Gdańsk
+737;79.99;2023-08-22 21:34;Allegro;Allegro: Allegro Paczkomaty InPost;Warszawa
+739;599.99;2023-08-24 15:44;Allegro;Allegro: Allegro Paczkomaty InPost;Wrocław
+740;152.49;2023-08-25 13:27;BLIK;Paczkomat InPost;Pielgrzymowice
+744;459.97;2023-08-25 15:05;Allegro;Allegro: Allegro Paczkomaty InPost;Sokołów Podlaski
+745;90.94;2023-08-27 20:00;Allegro;Allegro: Allegro miniKurier24 InPost;Sułkowice
+746;114.98;2023-08-28 22:33;BLIK;Kurier InPost;Wroclaw
+747;299.99;2023-08-30 15:16;Allegro;Allegro: Allegro Paczkomaty InPost;Łódź
+750;259.99;2023-08-30 16:37;Przelewy24.pl;Kurier DHL;Smolec
+752;161.99;2023-08-31 21:59;Przelew natychmiastowy;Paczkomat InPost;Rybnik
+753;59.99;2023-09-01 21:28;Allegro;Allegro;Olsztyn
+754;41.91;2023-09-01 22:59;Allegro;Allegro;Straszyn
+755;2599.99;2023-09-02 17:24;Przelew natychmiastowy;Darmowa wysyłka kurierem (tylko na terenie Krakowa, dla zakupów powyżej 500 zł);Kraków
+756;169.98;2023-09-03 15:55;Allegro;Allegro;Gdańsk
+757;109.99;2023-09-03 21:30;Allegro;Allegro;Chróścina Opolska
+771;214.99;2023-09-04 09:01;Przelew natychmiastowy;Kurier DPD;Tomaszów Mazowiecki
+772;59.99;2023-09-04 11:36;Allegro;Allegro;Warszawa
+773;109.99;2023-09-04 21:56;BLIK;Paczkomat InPost;Warszawa
+774;69.99;2023-09-06 06:44;Allegro;Allegro;Wiązowna
+775;169.99;2023-09-06 16:15;Allegro;Allegro;Alwernia
+778;1169.96;2023-09-07 20:32;BLIK;Paczkomat InPost;Jedlnia-Letnisko
+779;119.98;2023-09-08 12:47;Allegro;Allegro;Wejherowo
+780;161.99;2023-09-08 15:19;BLIK;Paczkomat InPost;Pabianice
+781;569.98;2023-09-09 04:25;Allegro;Allegro;Płock
+782;139.98;2023-09-09 06:02;Allegro;Allegro;Nowa Sól
+783;140.94;2023-09-09 13:33;Allegro;Allegro;Rejowiec
+784;429.96;2023-09-09 23:17;Allegro;Allegro;Częstochowa
+785;369.98;2023-09-10 13:03;Allegro;Allegro;Częstochowa
+786;24.98;2023-09-10 15:40;BLIK;Paczkomat InPost;Elbląg
+787;199.98;2023-09-11 06:46;Przelewy24.pl;Paczkomat InPost;Poznań
+789;119.98;2023-09-12 19:44;Allegro;Allegro;Poznań
+790;129.99;2023-09-13 22:27;Allegro;Allegro;Częstochowa
+791;119.99;2023-09-14 20:54;Allegro;Allegro;Wrocław
+792;34.98;2023-09-16 13:23;Allegro;Allegro;Rusiec
+793;159.99;2023-09-16 15:13;Allegro;Allegro;Olkusz
+794;249.97;2023-09-16 16:04;Allegro;Allegro;Katowice
+795;59.99;2023-09-16 17:03;Allegro;Allegro;Wrocław
+796;59.99;2023-09-16 17:03;Allegro;Allegro;Wrocław
+797;129.99;2023-09-16 19:44;Allegro;Allegro;Wrocław
+798;169.98;2023-09-17 15:13;Allegro;Allegro;Zielona Góra
+799;89.99;2023-09-18 16:55;Allegro;Allegro;Opole
+800;199.98;2023-09-19 07:53;PayPo;Paczkomat InPost;bieruń
+801;389.97;2023-09-20 01:05;BLIK;Paczkomat InPost;Warszawa
+802;69.99;2023-09-23 09:13;Allegro;Allegro;Myślenice
+803;159.99;2023-09-23 15:11;Allegro;Allegro;Gdańsk
+804;69.99;2023-09-24 15:10;BLIK;Paczkomat InPost;Złoczew
+805;329.99;2023-09-26 17:03;Allegro;Allegro;Przemyśl
+806;159.99;2023-09-26 19:11;Przelew natychmiastowy;Paczkomat InPost;Poznań
+807;129.99;2023-09-27 21:45;Allegro;Allegro;Kościerzyna
+808;59.99;2023-09-29 23:07;Allegro;Allegro;Gębice
+809;109.99;2023-09-29 23:17;Allegro;Allegro;Chojnice
+810;125.99;2023-09-30 10:34;BLIK;Paczkomat InPost;Węgierska Góka
+811;539.99;2023-09-30 11:28;BLIK;Paczkomat InPost;Częstochowa
+812;629.99;2023-09-30 11:56;BLIK;Paczkomat InPost;Łódź
+813;134.98;2023-09-30 12:43;BLIK;Paczkomat InPost;Lubliniec
+814;2519.99;2023-09-30 13:10;BLIK;Kurier InPost;Żory
+815;251.99;2023-09-30 16:58;BLIK;Paczkomat InPost;Kraków
+816;89.99;2023-09-30 17:18;BLIK;Paczkomat InPost;kraków
+817;1304.99;2023-09-30 17:55;BLIK;Paczkomat InPost;Kraków
+818;359.99;2023-10-01 04:58;BLIK;Paczkomat InPost;Kraków
+819;377.99;2023-10-01 11:13;Przelew tradycyjny;Kurier DPD;Puńców
+820;1439.99;2023-10-01 11:14;Przelewy24.pl;Paczkomat InPost;Kraków
+821;209.99;2023-10-01 12:24;Przelew natychmiastowy;Paczkomat InPost;Miłkowice
+822;179.98;2023-10-01 14:16;BLIK;Paczkomat InPost;Katowice
+823;98.99;2023-10-01 14:43;BLIK;Paczkomat InPost;Warszawa
+824;164.99;2023-10-01 21:04;Przelew natychmiastowy;Kurier InPost;Bierun
+825;134.99;2023-10-01 21:36;Przelew natychmiastowy;Paczkomat InPost;Dąbrowa Górnicza
+826;109.99;2023-10-01 22:13;Allegro;Allegro;Żabno
+827;109.99;2023-10-02 18:57;Allegro;Allegro;Warszawa
+828;119.99;2023-10-02 19:08;BLIK;Paczkomat InPost;Poniatowa
+829;33.98;2023-10-03 01:02;Allegro;Allegro;Toruń
+830;349.98;2023-10-03 08:33;Allegro;Allegro;Kąty/ gmina Sulmierzyce
+831;342.49;2023-10-04 11:15;Przelew natychmiastowy;Paczkomat InPost;Mogielnica
+832;69.99;2023-10-04 15:24;Allegro;Allegro;Zabrze
+833;69.99;2023-10-04 18:42;BLIK;Paczkomat InPost;Nowy Dwór Mazowiecki
+834;169.98;2023-10-04 20:00;Allegro;Allegro;Zgorzelec
+835;69.99;2023-10-04 20:40;BLIK;Paczkomat InPost;Kąty
+836;169.99;2023-10-07 09:22;Allegro;Allegro;Będzin
+837;749.99;2023-10-07 12:23;Allegro;Allegro;Nowy Tomyśl
+838;152.49;2023-10-08 17:14;Przelew natychmiastowy;Paczkomat InPost;Miłkowice
+839;444.96;2023-10-11 00:24;Allegro;Allegro;Łódź
+840;129.98;2023-10-11 03:22;Allegro;Allegro;Nysa
+841;159.99;2023-10-11 13:04;Allegro;Allegro;Lublin
+842;69.99;2023-10-12 13:34;Allegro;Allegro;Stargard
+843;144.99;2023-10-12 22:21;Przelew natychmiastowy;Paczkomat InPost;Ostrowiec Świętokrzyski
+844;139.99;2023-10-13 10:13;Allegro;Allegro;Jedlicze
+845;119.99;2023-10-16 21:39;Przelew natychmiastowy;Paczkomat InPost;Łódź
+846;189.99;2023-10-17 19:33;Allegro;Allegro;Kobylnica
+847;439.98;2023-10-17 21:56;BLIK;Paczkomat InPost;Łódź
+848;89.99;2023-10-18 16:13;Allegro;Allegro;WROCŁAW
+849;89.99;2023-10-19 12:04;Allegro;Allegro;Kościan
+850;1714.98;2023-10-19 20:37;Allegro;Allegro;Brzeg
+851;89.98;2023-10-20 11:12;BLIK;Paczkomat InPost;Biała Podlaska
+852;49.99;2023-10-21 12:52;Allegro;Allegro;Warszawa
+853;179.97;2023-10-21 23:52;Allegro;Allegro;Wrocław
+854;139.98;2023-10-22 21:10;Przelew tradycyjny;Paczkomat InPost;Kopki
+855;369.97;2023-10-22 21:18;Przelew natychmiastowy;Paczkomat InPost;Lublin
+856;439.97;2023-10-22 22:57;Przelew natychmiastowy;Paczkomat InPost;Mińsk mazowiecki
+857;59.99;2023-10-23 00:32;Allegro;Allegro;Wrocław
+859;170.94;2023-10-23 17:03;Allegro;Allegro;Szamotuły
+860;89.99;2023-10-24 18:53;Przelew natychmiastowy;Paczkomat InPost;Zelów
+861;911.98;2023-10-25 09:04;Allegro;Allegro;Bielsko-Biala
+862;269.99;2023-10-26 03:22;Allegro;Allegro;Warszawa
+863;79.99;2023-10-26 07:03;Allegro;Allegro;bydgoszcz
+864;579.99;2023-10-28 12:15;Przelew natychmiastowy;Paczkomat InPost;Wielka Wieś
+865;189.99;2023-10-28 18:50;BLIK;Paczkomat InPost;Kęty
+866;54.98;2023-10-29 01:22;Allegro;Allegro;Warszawa
+867;124.96;2023-10-29 08:09;Przelew natychmiastowy;Paczkomat InPost;Miasteczko Śląskie
+868;120.94;2023-10-29 10:43;Allegro;Allegro;Trzemeszno
+869;174.98;2023-10-29 11:50;BLIK;Kurier DPD;Wrocław
+870;130.92;2023-10-29 14:13;Allegro;Allegro;Opalenica
+871;95.91;2023-10-29 20:14;Allegro;Allegro;Gębice
+872;69.99;2023-10-31 11:04;Allegro;Allegro;Gołkowice
+873;70.94;2023-11-01 14:03;Allegro;Allegro;Lublin
+874;141.98;2023-11-05 00:02;Allegro;Allegro;Mogilno
+875;509.99;2023-11-05 11:30;BLIK;Paczkomat InPost;Warszawa
+876;314.99;2023-11-05 14:25;Przelew tradycyjny;Kurier DPD;Iława
+877;1299.99;2023-11-05 15:23;Allegro;Allegro;Kąty/ gmina Sulmierzyce
+878;109.99;2023-11-05 20:54;Allegro;Allegro;Poznań
+879;159.99;2023-11-06 15:37;Allegro;Allegro;Bukowina Tatrzańska
+880;319.99;2023-11-06 17:37;Allegro;Allegro;Łódź
+881;84.98;2023-11-08 10:04;Allegro;Allegro;Gliwice
+882;65.79;2023-11-08 14:01;Przelew natychmiastowy;Paczkomat InPost;Sanok
+883;120.94;2023-11-09 12:55;Allegro;Allegro;Leoncin
+884;149.99;2023-11-10 19:14;Allegro;Allegro;Bielany Wrocławskie
+885;169.98;2023-11-10 20:00;BLIK;Punkt odbioru DPD Pickup;Kraków
+886;129.99;2023-11-11 09:23;Allegro;Allegro;Wojnowo
+887;999.99;2023-11-11 14:45;BLIK;Paczkomat InPost;Bełchatów
+888;159.99;2023-11-11 20:44;Allegro;Allegro;Krzeptów
+889;189.99;2023-11-12 22:42;Przelew natychmiastowy;Paczkomat InPost;Warszawa
+890;279.98;2023-11-13 00:32;Allegro;Allegro;Poznań
+891;249.99;2023-11-13 16:04;Allegro;Allegro;Wrocław
+892;419.99;2023-11-13 21:16;Allegro;Allegro;Krosno
+893;199.99;2023-11-13 22:15;Allegro;Allegro;Zambrów
+894;159.99;2023-11-14 00:17;BLIK;Paczkomat InPost;Siewierz
+895;949.94;2023-11-14 01:12;Allegro;Allegro;Warszawa
+896;979.94;2023-11-14 01:12;Allegro;Allegro;Warszawa
+897;100.91;2023-11-14 01:32;Allegro;Allegro;Gębice
+898;169.97;2023-11-14 07:53;Allegro;Allegro;Zabrze
+899;218.98;2023-11-14 11:25;Allegro;Darmowa wysyłka kurierem (tylko na terenie Krakowa, dla zakupów powyżej 500 zł);Warszawa
+900;129.99;2023-11-15 13:25;Allegro;Allegro;Katowice
+901;199.99;2023-11-16 20:04;Allegro;Allegro;Kościan
+903;38.98;2023-11-17 16:24;Allegro;Darmowa wysyłka kurierem (tylko na terenie Krakowa, dla zakupów powyżej 500 zł);Włocławek
+904;19.94;2023-11-17 21:24;Allegro;Allegro;Zgorzała
+905;140.94;2023-11-18 12:44;Allegro;Allegro;Opole
+906;99.99;2023-11-20 12:14;Allegro;Allegro;Wrocław
+907;110.94;2023-11-20 16:34;Allegro;Allegro;Gniezno
+908;129.99;2023-11-21 05:42;Allegro;Allegro;Kraków
+909;119.97;2023-11-22 22:26;BLIK;Paczkomat InPost;Pniewy
+910;109.98;2023-11-22 22:52;BLIK;Paczkomat InPost;Zaborów
+911;71.98;2023-11-23 19:43;Allegro;Allegro;Grudynia Wielka
+912;120.94;2023-11-24 10:24;Allegro;Allegro;Trzemeszno
+913;499.99;2023-11-25 08:42;Allegro;Allegro;Płock
+914;69.99;2023-11-26 12:24;Allegro;Allegro;Chojnice
+915;227.99;2023-11-26 12:39;Przelew natychmiastowy;Paczkomat InPost;Wrocław
+916;249.99;2023-11-27 09:41;Przelew natychmiastowy;Paczkomat InPost;Wieluń
+917;159.99;2023-11-27 13:05;Allegro;Allegro;Bielany Wrocławskie
+918;199.99;2023-11-27 17:24;Allegro;Allegro;Białystok
+919;519.98;2023-11-27 22:03;Przelew natychmiastowy;Paczkomat InPost;Mińsk mazowiecki
+920;89.99;2023-11-28 05:02;Allegro;Allegro;Grudynia Wielka
+921;59.99;2023-11-28 10:45;Allegro;Allegro;Olecko
+922;129.99;2023-11-30 09:24;Allegro;Allegro;WAWRZEŃCZYCE
+923;279.99;2023-11-30 20:04;Allegro;Allegro;Świętochłowice
+924;209.99;2023-12-01 10:59;Przelew natychmiastowy;Paczkomat InPost;Częstochowa
+925;109.99;2023-12-02 11:53;Allegro;Allegro;Bytom
+926;99.99;2023-12-02 12:49;BLIK;Paczkomat InPost;Częstochowa
+927;139.99;2023-12-02 20:43;Allegro;Allegro;Świerkocin
+928;120.94;2023-12-03 14:44;Allegro;Allegro;Kraków
+929;159.99;2023-12-04 08:43;Przelew natychmiastowy;Paczkomat InPost;Kraków
+930;119.99;2023-12-04 08:44;Allegro;Allegro;Pruszków
+931;860.94;2023-12-05 00:13;Allegro;Allegro;Szczecin
+932;130.94;2023-12-06 21:36;Allegro;Allegro;Chochołów
+933;399.99;2023-12-07 13:13;Allegro;Allegro;Częstochowa
+934;260.00;2023-12-07 17:21;BLIK;Punkt odbioru Orlen Paczka;Sulmierzyce
+935;49.98;2023-12-07 18:43;Allegro;Allegro;Orły
+936;799.97;2023-12-08 10:26;Przelew natychmiastowy;Paczkomat InPost;Mogielnica
+937;179.99;2023-12-08 18:43;Allegro;Allegro;Hecznarowice
+938;169.98;2023-12-08 23:52;Allegro;Allegro;Wrocław
+939;159.99;2023-12-09 10:03;Allegro;Allegro;Bielawa
+940;960.94;2023-12-09 13:03;Allegro;Allegro;Gniezno
+941;169.98;2023-12-09 18:32;Allegro;Allegro;Warszawa
+942;219.99;2023-12-09 23:57;PayPo;Paczkomat InPost;Bieruń
+943;139.99;2023-12-10 13:33;Allegro;Allegro;malbork
+944;349.99;2023-12-10 15:53;Allegro;Allegro;Golub-Dobrzyń
+945;79.99;2023-12-10 16:33;Allegro;Allegro;Olsztyn
+946;169.99;2023-12-10 16:33;Allegro;Allegro;Szczepanów
+947;149.99;2023-12-10 16:53;Allegro;Allegro;Gniezno
+948;177.39;2023-12-11 12:48;BLIK;Paczkomat InPost;Łask
+949;159.99;2023-12-13 09:40;BLIK;Paczkomat InPost;Luboń
+950;109.99;2023-12-13 11:54;Allegro;Allegro;Marcinowice
+951;219.99;2023-12-13 21:30;Przelew natychmiastowy;Paczkomat InPost;Wrocław
+952;119.98;2023-12-13 23:32;Przelew natychmiastowy;Paczkomat InPost;Sosnowiec
+953;109.99;2023-12-14 00:32;Allegro;Allegro;Gdynia
+954;168.98;2023-12-14 10:23;Allegro;Darmowa wysyłka kurierem (tylko na terenie Krakowa, dla zakupów powyżej 500 zł);Warszawa
+955;69.99;2023-12-14 13:03;Allegro;Allegro;Siemianowice Śląskie
+956;299.99;2023-12-15 03:11;Allegro;Allegro;Lublin
+957;69.99;2023-12-15 08:10;BLIK;Paczkomat InPost;Niegowonice
+958;59.99;2023-12-15 12:33;Allegro;Allegro;Pruszków
+959;89.99;2023-12-15 23:28;BLIK;Paczkomat InPost;Warszawa
+960;189.99;2023-12-17 05:21;Allegro;Allegro;Myślenice
+961;484.98;2023-12-17 20:00;Przelew natychmiastowy;Paczkomat InPost;Mińsk mazowiecki
+962;410.94;2023-12-18 15:04;Allegro;Allegro;Benice
+963;149.99;2023-12-18 18:23;Allegro;Allegro;Ostrów WIelkopolski
+964;59.99;2023-12-19 19:03;Allegro;Allegro;Węgorzewo
+966;764.99;2023-12-20 07:49;BLIK;Kurier DPD;Darłowo
+967;159.99;2023-12-20 11:03;Allegro;Allegro;Pleszew
+968;169.99;2023-12-20 20:46;Przelew natychmiastowy;Paczkomat InPost;Legnica
+969;159.97;2023-12-21 10:24;Przelewy24.pl;Paczkomat InPost;Wrocław
+970;351.95;2023-12-21 18:39;BLIK;Paczkomat InPost;Niegowonice
+971;129.99;2023-12-21 20:52;Allegro;Allegro;Międzychód
+972;129.99;2023-12-23 23:38;BLIK;Paczkomat InPost;Międzychód
+973;129.98;2023-12-25 03:01;Allegro;Allegro;Warszawa - Wesoła
+974;129.99;2023-12-25 10:32;BLIK;Paczkomat InPost;Międzychód
+975;159.99;2023-12-26 09:02;Allegro;Allegro;Wrocław
+976;169.99;2023-12-26 16:12;Allegro;Allegro;Wola Filipowska
+977;230.94;2023-12-26 17:42;Allegro;Allegro;Sopot
+978;100.94;2023-12-26 21:52;Allegro;Allegro;Gdańsk
+979;107.45;2023-12-26 22:41;BLIK;Paczkomat InPost;Grojec
+980;162.99;2023-12-27 12:53;BLIK;Paczkomat InPost;Międzychód
+981;219.98;2023-12-28 04:41;Allegro;Allegro;Kraków
+982;149.99;2023-12-28 08:22;Allegro;Allegro;Warszawa
+983;59.99;2023-12-28 08:22;Allegro;Allegro;Warszawa
+984;275.98;2023-12-28 12:49;BLIK;Paczkomat InPost;Niegowonice
+985;89.99;2023-12-28 14:52;Allegro;Allegro;SZCZECIN
+986;349.97;2023-12-28 14:52;Allegro;Allegro;SZCZECIN
+987;89.99;2023-12-29 13:53;Przelew natychmiastowy;Paczkomat InPost;Gdańsk
+988;109.99;2023-12-29 14:06;Allegro;Allegro;Gostyń
+989;169.99;2023-12-29 14:11;BLIK;Paczkomat InPost;Gruszczyn
+990;214.96;2023-12-29 19:42;Allegro;Allegro;Gryfice
+991;409.99;2023-12-30 22:58;Przelew tradycyjny;Paczkomat InPost;Łącko
+992;139.98;2023-12-31 12:28;Przelew natychmiastowy;Paczkomat InPost;Gdańsk
